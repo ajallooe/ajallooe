@@ -63,5 +63,5 @@ Development* course. Covers the full lifecycle:
 
 ## Connect
 
-- LinkedIn: <https://www.linkedin.com/in/mohammad-m-ajallooeian-a2679b2a/>
+- LinkedIn: <https://www.linkedin.com/in/mohammad-ajallooeian/>
 - Email: <m.ajallooeian@gmail.com>
